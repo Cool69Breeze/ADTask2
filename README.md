@@ -32,7 +32,7 @@ https://github.com/Cool69Breeze/ADTask2/tree/main/Task2
 https://github.com/Cool69Breeze/ADTask3/tree/main/Task3
 
 ## Выводы
-Установил софт
+Научился работать с таблицей для записи данных, и использовать в C# скрипте в юнити
 ## Powered by
 
 **BigDigital Team: Denisov | Fadeev | Panov**
